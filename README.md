@@ -3,6 +3,8 @@ Butter Knife
 
 ![Logo](website/static/logo.png)
 
+Forked from JakeWharton/butterknife Added some custom annotations such as OnSingleClick, OnDoubleClick, OnItemClick for RecyclerView which are not supported by the main library.
+
 Field and method binding for Android views which uses annotation processing to generate boilerplate
 code for you.
 
